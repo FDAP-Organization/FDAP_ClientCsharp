@@ -12,3 +12,4 @@
 /home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.pdb
 /home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.genruntimeconfig.cache
 /home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/ref/FDAP_ClientCsharp.dll
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.sourcelink.json

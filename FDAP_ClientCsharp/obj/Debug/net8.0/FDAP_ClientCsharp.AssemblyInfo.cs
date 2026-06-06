@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FDAP_ClientCsharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b737d07bd57c56974a3e4a1d010aab2aacb4fea")]
 [assembly: System.Reflection.AssemblyProductAttribute("FDAP_ClientCsharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FDAP_ClientCsharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

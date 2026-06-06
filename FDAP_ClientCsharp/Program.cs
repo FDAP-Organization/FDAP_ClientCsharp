@@ -49,8 +49,9 @@ public class Program
         }
         Console.WriteLine($"Where you stock the files OwO : ");
         string filesInput = Console.ReadLine();
-        while (Directory.Exists(filesInput))
+        while (!Directory.Exists(filesInput))
         {
+            Console.WriteLine("This folder doesn't exist =_= try again !");
             filesInput = Console.ReadLine();
         }
         Folder = filesInput;
