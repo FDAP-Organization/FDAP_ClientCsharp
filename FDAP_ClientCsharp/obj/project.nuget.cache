@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+nxajpSvL6c=",
+  "success": true,
+  "projectFilePath": "/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/FDAP_ClientCsharp.csproj",
+  "expectedPackageFiles": [
+    "/home/kotama/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.25/microsoft.aspnetcore.app.ref.8.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

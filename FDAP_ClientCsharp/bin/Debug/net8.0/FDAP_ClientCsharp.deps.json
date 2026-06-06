@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FDAP_ClientCsharp/1.0.0": {
+        "runtime": {
+          "FDAP_ClientCsharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FDAP_ClientCsharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

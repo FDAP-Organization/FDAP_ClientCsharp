@@ -1,0 +1,14 @@
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/bin/Debug/net8.0/FDAP_ClientCsharp
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/bin/Debug/net8.0/FDAP_ClientCsharp.deps.json
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/bin/Debug/net8.0/FDAP_ClientCsharp.runtimeconfig.json
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/bin/Debug/net8.0/FDAP_ClientCsharp.dll
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/bin/Debug/net8.0/FDAP_ClientCsharp.pdb
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.AssemblyInfoInputs.cache
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.AssemblyInfo.cs
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.csproj.CoreCompileInputs.cache
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.dll
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/refint/FDAP_ClientCsharp.dll
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.pdb
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/FDAP_ClientCsharp.genruntimeconfig.cache
+/home/kotama/RiderProjects/FDAP_ClientCsharp/FDAP_ClientCsharp/obj/Debug/net8.0/ref/FDAP_ClientCsharp.dll
