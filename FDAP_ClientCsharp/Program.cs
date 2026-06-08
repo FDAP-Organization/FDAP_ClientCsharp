@@ -17,7 +17,7 @@ public class Program
     static Dictionary<string, string> Files = new Dictionary<string, string>();
     static Dictionary<string, IPEndPoint> Calls = new Dictionary<string, IPEndPoint>();
     static Dictionary<string, FileBuffer> FileBuffers = new Dictionary<string, FileBuffer>();
-    static int Port = 2606;
+    static int Port = 6626;
 
     public class FileBuffer
     {
@@ -36,7 +36,7 @@ public class Program
     }
     public static void Main(string[] args)
     {
-        Console.WriteLine("Welcome to FDAP UwU (NOTHING IS SAVE ALL PEERS AND CALL IS ON CACHE)");
+        Console.WriteLine("Welcome to FUDP UwU (NOTHING IS SAVE ALL PEERS AND CALL IS ON CACHE)");
         UDPClient = new UdpClient(Port); Console.WriteLine($"UDP Client is running on port : {Port} >///<");
         Console.WriteLine($"Who you know UwU (separate with ',', or press Enter): ");
         string peersInput = Console.ReadLine();
